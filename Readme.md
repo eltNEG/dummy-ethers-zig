@@ -1,5 +1,5 @@
 # Ethers zig (dummy)
-It implements the ethers js contract initialization style using zig comptime. This is a practice project built to master zig comptime.
+It implements the ethers js contract initialization style using zig comptime. This is a practice project built to master zig comptime. I recommend checking out [zabi](https://github.com/Raiden1411/zabi) if you are looking for somthing that works.
 
 Ether js contract initialisation from the [doc](https://docs.ethers.org/v6/getting-started/#starting-contracts):
 ```js
